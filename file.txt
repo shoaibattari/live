@@ -1,4 +1,8 @@
 
 name=abdul,phone=11111111
+<<<<<<< HEAD
 name=Shoaib,phone=11111111
 name=Shoaib+attari,phone=03232579204
+=======
+name=Shoaib,phone=11111111
+>>>>>>> 7a111659bca1837e5297f0113892aa231b25ae27
