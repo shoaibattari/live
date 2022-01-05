@@ -1,4 +1,0 @@
-
-name=farooq+facebook,phone=9898
-name=Shoaib+attari,phone=ss
-name=abdul,phone=03232579204444
