@@ -1,5 +1,5 @@
 const express = require("express");
-const req = require("express/lib/request");
+const bodyParser = require("body-parser")
 const path = require("path");
 // const fs = require("fs")
 const router = express.Router();
@@ -13,6 +13,10 @@ router.get("/", (req, res) => {
     res.sendFile(path.join(__dirname, "../","views", "form.html"));
 })
 
+
+// router.get("/reg", (req,res) =>{
+//     res.sendFile(path.join(__dirname,"../","views","register.ejs"));
+// })
 // router.use("/submit", (req, res) => {
 //     res.write("data submit")
 // })
